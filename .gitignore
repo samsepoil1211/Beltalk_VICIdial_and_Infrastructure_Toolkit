@@ -1,0 +1,9 @@
+﻿# Local-only, never commit
+.env
+*.log
+*.key
+*.pem
+credentials*
+*.sql
+*.mp3
+*.tar.gz
