@@ -129,3 +129,7 @@ Run `./install-vicidial.sh --help`. Highlights:
 
 ---
 *Debjit Pal — Systems & VoIP Infrastructure Engineer, Beltalk Technologies Pvt. Ltd.*
+
+## Helper files
+
+The config files the installer copies onto the server (dialplan, ConfBridge, SIP, SSL vhost, cpanfile) are in [ssets/](assets/). See its README for what each file does and how the installer uses it.
